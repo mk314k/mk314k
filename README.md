@@ -11,9 +11,7 @@ I am constantly exploring the fascinating world of artificial intelligence, mach
 
 I'm proficient in several programming languages, including Python, C++, JavaScript, TypeScript, HTML, and CSS. I'm well-versed in a variety of tools and frameworks, such as PyTorch, TensorFlow, OpenCV, Node.js, Express, SQL, React, ROS (Robot Operating System), Git, Vim, Arduino, ESP32, and many more. I believe in using the right tool for the job and enjoy exploring new technologies to stay up-to-date with the ever-evolving tech landscape.
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk314k&layout=pie)](https://github.com/anuraghazra/github-readme-stats) |
-| -------------------------------------- |
-
+<!---
 ### 🔬 Highlighted Projects
 
 Here are a couple of projects I'd like to highlight:
@@ -25,6 +23,7 @@ This project focuses on the exciting field of 3D shape reconstruction from a sin
 #### 2. Inpainting
 
 The Inpainting project showcases my exploration of various algorithms and techniques to regenerate damaged pixels in images. By employing advanced image inpainting algorithms, we can intelligently fill in missing or corrupted regions in images, seamlessly restoring their visual integrity. This project highlights my interest in computer vision and my ability to apply cutting-edge techniques to solve real-world image restoration challenges.
+-->
 
 ### 📫 Get in Touch
 
