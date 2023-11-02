@@ -22,7 +22,7 @@
 ### 📊 My Github Stats
 
 ![Kartikesh's github stats](https://github-readme-stats.vercel.app/api?username=mk314k)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk314k&layout=donut&hide=css&hide=Javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk314k&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Get in Touch
 
