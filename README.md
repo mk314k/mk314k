@@ -2,7 +2,6 @@
 
 # <span style="font-size: 36px">Hi, I'm Kartikesh Mishra!</span>
 
-### 👨‍💻 Research Assistant: Deep Learning Interpretability
 ### 🎓 Double major in Computer Science and Engineering and Mathematics at MIT (Class of 2024)
 ### 🚀 My Interests: AI/ML, Software Development, Problem Solving
 
