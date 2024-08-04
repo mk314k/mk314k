@@ -2,11 +2,9 @@
 
 # <span style="font-size: 36px">Hi, I'm Kartikesh Mishra!</span>
 
-### 🎓 Double major in Computer Science and Engineering and Mathematics at MIT (Class of 2024)
-### 🚀 My Interests: AI/ML, Software Development, Problem Solving
-
 </div>
 
+### 🚀 My Interests: AI/ML, Software Development, Problem Solving
 
 ### 🛠️ Programming Languages and Tools
 #### 💻 General Purpose
