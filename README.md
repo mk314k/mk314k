@@ -1,9 +1,11 @@
-<div align="center">
+# Kartikesh Mishra
 
-# <span style="font-size: 36px">Hi, I'm Kartikesh Mishra!</span>
+I'm a software engineer, researcher, and founder interested in building intelligent systems from first principles.
 
-</div>
+I'm currently the **Co-Founder & CTO of Lamina Labs (YC P26)**. I studied **Computer Science & Engineering and Mathematics at MIT**, followed by an **MEng in EECS**.
 
-### 📫 Get in Touch
+My work spans **machine learning, computer vision, systems, robotics, developer tools, and high-performance computing**. I especially enjoy problems where understanding the underlying system matters as much as making the final product work.
 
-I'm always excited to connect with like-minded individuals and explore potential collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mk314k/) to discuss ideas, projects, or opportunities. Let's connect and make a difference together!
+Currently exploring problems around **AI systems, agents, robotics, developer infrastructure, and efficient computing**.
+
+[Website](https://mk314k.github.io/) · [LinkedIn](https://www.linkedin.com/in/mk314k/)
